@@ -1,5 +1,5 @@
 .form-main{
-    padding-top: 40px;
+    padding-top: 60px;
     /* text-align: center; */
 }
 
@@ -17,7 +17,6 @@
 .form-button{
     width: 100px;
     height: 40px;
-    /* color: rgb(39, 156, 224); */
     color: white;
     font-size: 20px;
     font-style: italic;

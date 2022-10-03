@@ -15,7 +15,7 @@ export default class AddContacts extends Component {
     }
     this.props.addContactHandler(this.state);
     this.setState({ name:"" , email:""})
-    console.log(this.state)
+    console.log(this.props);
   }
   render() {
     return (

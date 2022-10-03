@@ -1,9 +1,13 @@
 .ui-list{
+    padding-top: 70px;
     /* text-align: center; */
     /* background-color: whitesmoke; */
+    text-align: center;
 }
 
 .list-heading{
+    /* background-color: ; */
+    /* text-align: center; */
     font-style: oblique;
     display: inline;
 }
